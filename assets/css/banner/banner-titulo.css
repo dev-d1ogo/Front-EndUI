@@ -1,0 +1,12 @@
+.banner__titulo{
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+    font-size: 5rem;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 4px 4px rgba(0,0,0,0.75);
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    transform: translate(-50%,-50%); /*altera a posição da caixa de texto como se fosse um vetor a partir de um dado ponto*/
+}

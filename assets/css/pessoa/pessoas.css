@@ -1,0 +1,5 @@
+.pessoas{
+    display: flex;
+    justify-content: space-around; /*ajusta com espaço*/
+    padding-top: 3rem;
+}

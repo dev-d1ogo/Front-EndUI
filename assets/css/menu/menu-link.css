@@ -1,0 +1,14 @@
+.menu__link.ativo{
+    font-weight: bold;
+    color: black;
+}
+.menu__link{
+    color: #808080;
+    margin-right: 1.5em;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.menu__link:hover{
+    text-decoration: underline;
+}

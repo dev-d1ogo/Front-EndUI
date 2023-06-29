@@ -1,0 +1,9 @@
+.banner__img{
+    width: 100%;
+    height: calc(100vh - 72px);  
+    /*  vh = viewport height ou seja tamanho (altura da janela do navegador)
+        o calc pega esses 100vh e subtrai o tamanho do cabeçalho (no caso de 72px)
+        de modo que o cabeçalho seja desconsiderado no tamanho total da página e a rolagem seja melhor feita
+    */
+    background: url(../../img/banner.jpg) no-repeat center/cover;
+}

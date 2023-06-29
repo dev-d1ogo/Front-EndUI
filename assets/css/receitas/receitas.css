@@ -1,0 +1,10 @@
+.receitas{
+    background-color: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap; 
+    /* faz com que os conteudos sejam divididos em linhas e colunas 
+    de modo que toda vez que ficar muito apertado uma coluna ela seja
+    transformada em uma linha de modo que fique tudo um embaixo do outro caso necessario
+    */
+    padding: 5rem 0 0 5rem;
+}
